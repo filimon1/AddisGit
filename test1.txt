@@ -1,3 +1,8 @@
 This is First Test
 Second sentence added from remote repo
+<<<<<<< HEAD
 Third sentence added from local
+=======
+
+Fourth sentence from remote repo
+>>>>>>> baaa59d4dd4dd730694dd4e5eeb28b90764ec4db
